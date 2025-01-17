@@ -9,12 +9,12 @@
   <img 
     alt="my stats" 
     height="190cm" 
-    src="https://github-readme-stats.vercel.app/api?username=victorsouzalim4&show_icons=true&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api?username=victorsouzalim4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
   />
   <img 
     alt="most used languages" 
     height="190cm"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsouzalim4&layout=donut&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsouzalim4&layout=donut&theme=tokyonight&count_private=true" 
   />
 </div>
 
