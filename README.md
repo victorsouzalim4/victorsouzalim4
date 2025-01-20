@@ -42,7 +42,11 @@
   <img align="center" alt="Victor-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="center" alt="Victor-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </div>
-  
+
+<div style="text-align: center;">
+  <img src="https://github.com/victorsouzalim4/victorsouzalim4/blob/output/github-snake-dark.svg" alt="snake gif">
+</div>
+
 
 
 
