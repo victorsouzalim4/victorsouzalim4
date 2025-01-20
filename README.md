@@ -14,7 +14,7 @@
   <img 
     alt="most used languages" 
     height="190cm"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsouzalim4&layout=donut&theme=tokyonight&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsouzalim4&layout=compact&theme=tokyonight&count_private=true" 
   />
 </div>
 
