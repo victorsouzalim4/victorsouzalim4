@@ -5,7 +5,7 @@
 
   ##
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
   <img 
     alt="my stats" 
     height="190cm" 
@@ -20,14 +20,7 @@
 
 ## 
 
-<div> 
-  <a href="https://www.instagram.com/szv.lima/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "victorsouzalima2064@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/victor-souza-lima-58195a303/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-
- <div style="display: inline_block"><br>
+ <div align="center" style="display: inline_block"><br>
    
   <img align="center" alt="Victor-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="Victor-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
@@ -43,11 +36,18 @@
   <img align="center" alt="Victor-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </div>
 
-<div style="text-align: center;">
+<div align="center" style="text-align: center;">
   <img src="https://github.com/victorsouzalim4/victorsouzalim4/blob/output/github-snake-dark.svg" alt="snake gif">
 </div>
 
+##
 
+<div align="center"> 
+  <a href="https://www.instagram.com/szv.lima/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "victorsouzalima2064@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/victor-souza-lima-58195a303/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
 
 
