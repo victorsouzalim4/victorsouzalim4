@@ -9,7 +9,7 @@
   <img 
     alt="my stats" 
     height="190cm" 
-    src="https://github-readme-stats.vercel.app/api?username=victorsouzalim4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=victorsouzalim4&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800" 
   />
   <img 
     alt="most used languages" 
