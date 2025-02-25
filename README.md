@@ -21,7 +21,6 @@
 ## 
 
  <div align="center" style="display: inline_block"><br>
-   
   <img align="center" alt="Victor-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="Victor-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img align="center" alt="Victor-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
