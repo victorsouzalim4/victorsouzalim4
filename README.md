@@ -1,7 +1,7 @@
 ## Olá, sou o Victor 👋
 
 - 🔭 Trabalho atualmente como dev fullstack  
-- 🌱 Aprendendo sobre Teoria dos Grafos e Machine Learning
+- 🌱 Aprendendo sobre Programação Dinâmica
 
   ##
 
