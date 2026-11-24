@@ -30,10 +30,8 @@
 ### 🛠️ Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,ts,js,nodejs,react,postgres,docker,aws,git,linux,c,cpp&perline=13" alt="stack" />
+  <img src="https://skillicons.dev/icons?i=python,java,ts,js,go,c,cpp,cs,nodejs,nestjs,react,nextjs,tailwind,materialui,tensorflow,postgres,mongodb,dynamodb,firebase,supabase,redis,aws,docker,kubernetes,terraform,cloudflare,workers,grafana,jest&perline=10" alt="stack" />
 </p>
-
-**IA & Automação:** LLMs · RAG · Agentes · Bancos vetoriais (Pinecone) · Zapier · Integrações via API (SAP B1)
 
 ### 📊 GitHub
 
