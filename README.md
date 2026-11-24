@@ -24,7 +24,6 @@
 ### 🚀 Projetos em destaque
 
 - **OASIS** — TCC sobre viés egocêntrico e efeito manada em sistemas multiagentes com LLMs
-- **SnapVM** — checkpoint/restore de máquinas virtuais para agentes de IA (artigo em andamento)
 - **e-motion** — controle virtual acessível via webcam · vencedor dos Trabalhos Interdisciplinares V e VI da PUC Minas, apresentado no SBCUP 2026
 - **Vortex** — motor de IA baseado em RAG
 
