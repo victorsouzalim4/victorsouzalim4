@@ -1,7 +1,10 @@
 ## Olá, sou o Victor 👋
 
-- 🔭 Trabalho atualmente como dev fullstack  
-- 🌱 Aprendendo sobre Programação Dinâmica
+- 🤖 Engenheiro de Automações e IA, apaixonado por construir sistemas que trabalham sozinhos
+- 🐍 Python no dia a dia, com foco em agentes LLM, RAG e integrações
+- 🎓 Estudante de Ciência da Computação na PUC Minas
+- 🌱 Curioso por pesquisa em IA e sistemas distribuídos
+- 📍 Belo Horizonte, MG
 
   ##
 
