@@ -1,55 +1,48 @@
-## Olá, sou o Victor 👋
+<h2 align="center">Olá, sou o Victor 👋</h2>
+<p align="center"><b>Engenheiro de Automações e IA</b> · Belo Horizonte, MG</p>
 
-- 🤖 Engenheiro de Automações e IA, apaixonado por construir sistemas que trabalham sozinhos
-- 🐍 Python no dia a dia, com foco em agentes LLM, RAG e integrações
-- 🎓 Estudante de Ciência da Computação na PUC Minas
-- 🌱 Curioso por pesquisa em IA e sistemas distribuídos
-- 📍 Belo Horizonte, MG
+<p align="center">
+  <a href="https://www.linkedin.com/in/victor-souza-lima-58195a303/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:victorsouzalima2064@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
-  ##
+### 🧑‍💻 Sobre mim
 
-<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
-  <img 
-    alt="my stats" 
-    height="190cm" 
-    src="https://github-readme-stats.vercel.app/api?username=victorsouzalim4&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800" 
-  />
-  <img 
-    alt="most used languages" 
-    height="190cm"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsouzalim4&layout=compact&theme=tokyonight&count_private=true" 
-  />
+- 🤖 Construo automações, integrações e sistemas com IA: agentes LLM, RAG e pipelines de dados
+- 🐍 Python no dia a dia, com experiência também em Java, TypeScript e arquitetura de microsserviços
+- 🎓 Ciência da Computação na PUC Minas
+- 🔬 Interesse em pesquisa sobre agentes de IA e sistemas distribuídos
+
+### 💼 Experiência
+
+| Empresa | Função | Período |
+|---|---|---|
+| **W1 Consultoria** | Engenheiro de Automações e IA | 2026 |
+| **allu.** | Engenheiro de Software | 2026 |
+| **Valle Consultores** | Desenvolvedor Full Stack | 2024 – 2026 |
+
+### 🚀 Projetos em destaque
+
+- **OASIS** — TCC sobre viés egocêntrico e efeito manada em sistemas multiagentes com LLMs
+- **SnapVM** — checkpoint/restore de máquinas virtuais para agentes de IA (artigo em andamento)
+- **e-motion** — controle virtual acessível via webcam · vencedor dos Trabalhos Interdisciplinares V e VI da PUC Minas, apresentado no SBCUP 2026
+- **Vortex** — motor de IA baseado em RAG
+
+### 🛠️ Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,ts,js,nodejs,react,postgres,docker,aws,git,linux,c,cpp&perline=13" alt="stack" />
+</p>
+
+**IA & Automação:** LLMs · RAG · Agentes · Bancos vetoriais (Pinecone) · Zapier · Integrações via API (SAP B1)
+
+### 📊 GitHub
+
+<div align="center">
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=victorsouzalim4&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800" />
+  <img height="170" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsouzalim4&layout=compact&theme=tokyonight&count_private=true" />
 </div>
 
-## 
-
- <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Victor-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="center" alt="Victor-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img align="center" alt="Victor-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Victor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Victor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Victor-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="Victor-firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
-  <img align="center" alt="Victor-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img align="center" alt="Victor-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-</div>
-
-<div align="center" style="text-align: center;">
+<div align="center">
   <img src="https://github.com/victorsouzalim4/victorsouzalim4/blob/output/github-snake-dark.svg" alt="snake gif">
 </div>
-
-##
-
-<div align="center"> 
-  <a href="https://www.instagram.com/szv.lima/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "victorsouzalima2064@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/victor-souza-lima-58195a303/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-
-
-
